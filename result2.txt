@@ -1,0 +1,18 @@
+原站位
+when team  0  attack first
+team 0 win rate is:  percent: 86.52%
+team 1 win rate is:  percent: 11.22%
+tie rate is:  percent: 2.27%
+when team  1  attack first
+team 0 win rate is:  percent: 86.00%
+team 1 win rate is:  percent: 11.98%
+tie rate is:  percent: 2.02%
+改变后
+when team  0  attack first
+team 0 win rate is:  percent: 60.80%
+team 1 win rate is:  percent: 35.05%
+tie rate is:  percent: 4.16%
+when team  1  attack first
+team 0 win rate is:  percent: 51.33%
+team 1 win rate is:  percent: 44.89%
+tie rate is:  percent: 3.78%
